@@ -1,0 +1,13 @@
+Commands-->
+
+1. Type 'add' --> To add a song in queue or to start a song just enter add <song name>. for example- add never gona give you up by Rick Astley
+
+2. Type 'skip' --> To close a song.
+
+3. Type 'queue' --> To see the list of UpNext Songs.
+
+4. Type 'pause' --> To pause the song.
+
+5. Type 'resume' --> To resume the song.
+
+6. Type 'exit' --> To exit the program.
